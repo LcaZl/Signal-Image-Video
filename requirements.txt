@@ -1,0 +1,9 @@
+jupyter
+ipykernel
+pandas
+numpy
+opencv-python
+tqdm
+matplotlib
+pillow
+tabulate
